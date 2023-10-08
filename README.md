@@ -19,6 +19,11 @@ Your job is to use your data visualisation skills, including aggregation, intera
 
 Further details on the assignment briefing are available in [Documentation/Briefing.md](./Documentation/Briefing.md)
 
+## Code Source Acknowledgement
+* Code for Figure 5 was reproduced from starter code for Figure 4. 
+* Data Frame query function concept was found on Stackoverflow: https://stackoverflow.com/a/57297126
+* Setting additional columns in the hover over hvplot was found on StackOverflow: https://stackoverflow.com/a/59679114
+
 ---
 
 
